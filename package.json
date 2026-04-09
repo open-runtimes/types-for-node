@@ -1,0 +1,30 @@
+{
+  "name": "@open-runtimes/types",
+  "version": "0.0.1",
+  "description": "Types for Node.js, Bun, and Deno Open Runtimes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/open-runtimes/types-for-node.git"
+  },
+  "keywords": [
+    "open-runtimes",
+    "serverless",
+    "functions",
+    "types",
+    "typescript"
+  ],
+  "author": "Open Runtimes",
+  "license": "MIT",
+  "homepage": "https://github.com/open-runtimes/types-for-node",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
