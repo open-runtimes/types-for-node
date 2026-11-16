@@ -25,6 +25,6 @@
   "license": "MIT",
   "homepage": "https://github.com/open-runtimes/types-for-node",
   "devDependencies": {
-    "typescript": "^5.0.0"
+    "typescript": "^7.0.0"
   }
 }
